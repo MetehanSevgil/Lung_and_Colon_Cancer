@@ -53,6 +53,8 @@ Bu projede; **ResNet50**, **DenseNet121**, **VGG16**, **Xception**, ve **Efficie
 | EfficientNetB7     | 768×768  | Colab         | 447.5M           | 1.67 GB       | 181 dk         | 75 sn       | 0.1684   | 0.0744   | 0.0478    | 0.1684 | 36.61 sn       |
 | Lighter_DenseNet121| 128×128  | Local         | 1.6M             | 6.41 MB       | 18 dk          | 16 sn       | 0.9986   | 0.9986   | 0.9986    | 0.9986 | 3.39 sn        |
 
+> 📌 Detaylı sonuçlar için `results.xlsx` dosyasına başvurabilirsiniz.
+
 ---
 
 ## 📚 Gereksinimler
@@ -63,8 +65,3 @@ numpy
 pandas
 scikit-learn
 matplotlib
-
-
-# Relevant Links
-- https://arxiv.org/abs/1912.12142v1
-- https://github.com/tampapath/lung_colon_image_set
